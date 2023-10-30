@@ -1,0 +1,8 @@
+<html>
+<head>
+<label size="15" TextColor="Green">WOW</label>
+</head>
+<body>
+<button Text="Приветствую!" Clicked="Accept">
+</body>
+</html>

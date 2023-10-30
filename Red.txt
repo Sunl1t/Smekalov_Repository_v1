@@ -1,0 +1,8 @@
+<html>
+<head>
+<label size="15" TextColor="Red">Oh no </label>
+</head>
+<body>
+<button Text="Пока-пока!" Clicked="Accept">
+</body>
+</html>
