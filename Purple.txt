@@ -1,0 +1,9 @@
+<html>
+<head>
+<label size="19" TextColor="Purple">WOW</label>
+</head>
+<body>
+<button Text="Приветствую, посетитель!" Clicked="Accept">
+<checkbox Text="Ладно" TextColor="Black">
+</body>
+</html>

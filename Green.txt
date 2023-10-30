@@ -1,8 +1,8 @@
 <html>
 <head>
 <label size="15" TextColor="Green">WOW</label>
+<label size="10" TextColor="Green">(It's you..)</label>
 </head>
 <body>
-<button Text="Приветствую!" Clicked="Accept">
 </body>
 </html>

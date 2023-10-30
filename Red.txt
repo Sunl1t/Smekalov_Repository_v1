@@ -1,8 +1,9 @@
 <html>
 <head>
-<label size="15" TextColor="Red">Oh no </label>
+<label size="15" TextColor="Red">Oh no xd</label>
+<label size="29" TextColor="Grey"> CHANGED </label>
 </head>
 <body>
-<button Text="Пока-пока!" Clicked="Accept">
+
 </body>
 </html>
